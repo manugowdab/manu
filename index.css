@@ -54,11 +54,11 @@ nav{
 .logo p{
     padding: 5px;
 }
-.index1 ul{
+.container-nav .index1 ul{
     list-style: none;
     display: flex;
 }
- .nav ul li{
+ .nav .container-nav ul li{
     padding: 0px 3px;
     margin-right: 25px;
     font-size: 20px;
