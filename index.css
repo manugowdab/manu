@@ -54,7 +54,7 @@ nav{
 .logo p{
     padding: 5px;
 }
-.container-nav .index1 ul{
+nav .container-nav .index1 ul{
     list-style: none;
     display: flex;
 }
